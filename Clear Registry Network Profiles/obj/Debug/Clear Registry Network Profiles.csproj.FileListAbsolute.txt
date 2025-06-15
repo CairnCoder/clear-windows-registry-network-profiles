@@ -1,0 +1,39 @@
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.exe.config
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.exe
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.pdb
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csprojAssemblyReference.cache
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear_Registry_Network_Profiles.Form1.resources
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear_Registry_Network_Profiles.Properties.Resources.resources
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csproj.GenerateResource.cache
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csproj.CoreCompileInputs.cache
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csproj.CopyComplete
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.exe
+C:\Users\MGOOCH\Documents\Coding\Projects\00-Not working\temp\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.pdb
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.exe.config
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.exe
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.pdb
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csprojAssemblyReference.cache
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear_Registry_Network_Profiles.Form1.resources
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear_Registry_Network_Profiles.Properties.Resources.resources
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csproj.GenerateResource.cache
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csproj.CoreCompileInputs.cache
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.csproj.CopyComplete
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.exe
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.pdb
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.exe.manifest
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.TrustInfo.xml
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.exe.manifest
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\bin\Debug\Clear Registry Network Profiles.application
+C:\Users\MGOOCH\Documents\Coding\Projects\Clear Registry Network Profiles\Clear Registry Network Profiles\obj\Debug\Clear Registry Network Profiles.application
